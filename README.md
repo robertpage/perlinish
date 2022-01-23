@@ -1,7 +1,7 @@
 # perlinish
 A fake perlin noise generator in 500 bytes that uses UTF-8 characters and a canvas element. The generate function returns a 2D array of values 0-256 although using the default settings usually creates values between 0 and 200. If you strip out parts, and optimize it, I'm sure you can get the it much smaller.
 
-## [DEMO](https://robertpage.github.io/perlinish/)
+## [DEMO](https://vivianeasley.github.io/perlinish/)
 
 ## Usage
 See the demo in the docs directory for an example.
